@@ -8,6 +8,7 @@
 Academic theme plotting package for Mathematica
 
 * [Features](#features)
+* [Usage example](#usage-example)
 * [Installation](#installation)
     * [Automatic installation](#automatic-installation)
     * [Manual installation](#manual-installation)
@@ -20,6 +21,8 @@ Academic theme plotting package for Mathematica
 ## Features
 The package provides two themes, "MonoPaper" and "ColorPaper" that I use as a base to produce plots for TeX documents, exporting them to PDF.
 ## Usage example
+
+![alt tag](https://raw.github.com/dih5/PaperPlot/master/demo.png)
 
 ## Installation
 
